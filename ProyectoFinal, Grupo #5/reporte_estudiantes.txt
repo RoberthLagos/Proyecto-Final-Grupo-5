@@ -1,0 +1,6 @@
+--- Reporte de Estudiantes ---
+Curso: Programacion Orientada a Objetos
+ID | Nombre | Calificación
+1 | Juan Perez | 90
+2 | Ana Gomez | 85
+3 | Luis Torres | 75
